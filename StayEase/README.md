@@ -26,12 +26,10 @@ StayEase/
 │       ├── AdminMenu.java
 │       └── BillGenerator.java
 ├── lib/
-│   └── mysql-connector-j-x.x.xx.jar  <- Add this manually!
+│   └── mysql-connector-j-x.x.xx.jar
 ├── stayease.sql
 └── README.md
 ```
-
----
 
 ## Setup Instructions
 
@@ -107,4 +105,3 @@ Password: admin123
 - Java 8+
 - JDBC (no ORM)
 - MySQL
-- No Spring, no Maven, no frameworks
